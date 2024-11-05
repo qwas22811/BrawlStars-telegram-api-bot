@@ -14,6 +14,14 @@ Statistics you can see:
 
 
 
+
+
+
+
+
+
+
+
 How to run this?
 
 I will tell you how to run the bot locally on your computer without uploading it to the host. I will do this in the program VisualStudio Code.
