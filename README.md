@@ -33,6 +33,7 @@ Together where they ask to enter an IP address just write your address. (You can
 Then, you simply insert these tokens into the code (it will indicate where to paste them). you will also need to install a couple of python libraries. you just open the terminal and type the following commands one by one:
 
 • pip install python-telegram-bot==20.3
+
 • pip install requests
 
 That's it now you can run the code. While your code is running the telegram bot will work. That's all for now!
