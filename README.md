@@ -6,5 +6,7 @@ In this bot you can see your profile statistics from brawl stars! To do this, yo
 Statistics you can see:
 
 •Nickname 
+
 •How many trophies 
+
 •Clan
