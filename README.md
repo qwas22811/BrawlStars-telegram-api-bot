@@ -36,4 +36,4 @@ Then, you simply insert these tokens into the code (it will indicate where to pa
 
 • pip install requests
 
-That's it now you can run the code. While your code is running the telegram bot will work. That's all for now!
+👋That's it now you can run the code. While your code is running the telegram bot will work. That's all for now!
