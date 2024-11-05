@@ -23,11 +23,11 @@ I will tell you how to run the bot locally on your computer without uploading it
 ⛔Important! you must already have python downloaded 
 
 •First, you need to create a telegram bot and get its token.
-(You can get it here: https://t.me/BotFather)
+(https://t.me/BotFather)
 
 
 •Next you need a Brawl Stars token.
-Together where they ask to enter an IP address just write your address. (You can get it here https://developer.brawlstars.com)
+Together where they ask to enter an IP address just write your address. (https://developer.brawlstars.com)
 
 
 Then, you simply insert these tokens into the code (it will indicate where to paste them). you will also need to install a couple of python libraries. you just open the terminal and type the following commands one by one:
