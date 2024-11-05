@@ -69,12 +69,10 @@ async def view_info(update: Update, context: ContextTypes.DEFAULT_TYPE):
         trophies = player_data.get("trophies", "Нет данных")
         clan_name = player_data.get("club", {}).get("name", "Вы не в клане")
         
-        # Отправляем информацию в новом сообщении
         await update.callback_query.message.reply_text(
             f"📋 Информация профиля:\n👤 Имя: {player_name}\n🏆 Трофеи: {trophies}\n🏰 Клан: {clan_name}"
         )
         
-        # Создаем кнопку "Вернуться в меню"
         keyboard = [
             [InlineKeyboardButton("🏠 Вернуться в меню", callback_data="return_to_menu")]
         ]
